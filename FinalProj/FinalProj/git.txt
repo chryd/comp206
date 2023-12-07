@@ -1,0 +1,59 @@
+commit a770e444168ca80946d5b745df1eb8559141a077
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Tue Apr 27 20:32:38 2021 -0400
+
+    Final version, passed all tests
+
+commit e5cb6a86f1c042a4ee6fc0831a412588c9370ebe
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Tue Apr 27 18:33:25 2021 -0400
+
+    All exercises. individually testes, passed. To do: final test from start to finish.
+
+commit 5a3ee2b483907db6587c6a84a7f52ce51570c1c4
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Tue Apr 27 17:19:35 2021 -0400
+
+    Removed extra files
+
+commit 0f1eb1809936161db9463628e96f96393480d74f
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Tue Apr 27 17:18:32 2021 -0400
+
+    Real final version of ex1-4, tested with bigger cases, removed puts for debug
+
+commit 9cd0e5d21b4ac2b75702b7bb22f5cdedc36a1573
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Tue Apr 27 16:14:05 2021 -0400
+
+    Exercise 4 added, small changes in all files.
+
+commit 9906e33f3b4c1240ee75986adc63411b9ac12198
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Tue Apr 27 14:43:12 2021 -0400
+
+    Final version of exercise 3, passed small sample test. Corrected typo in fixformat.sh
+
+commit 6b97ad218d9cf94c759b915b99a78abe820ca6b7
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Mon Apr 26 15:49:47 2021 -0400
+
+    Ex. 3 completed v.1, not tested yet
+
+commit 182a6ec50398aed296e14742ed6cc8261fa4c57f
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Mon Apr 26 15:39:01 2021 -0400
+
+    Completed exercise 3, version1, not tested yet
+
+commit 538926799b62d1cf739dd9b285e086a242b1e595
+Author: Christine YANG-DAI <christine.yang-dai@mail.mcgill.ca>
+Date:   Mon Apr 26 13:49:04 2021 -0400
+
+    zoomrecs.h and .c, with fct addZoomRecord and its helper fct
+
+commit e6ea28c988ba89a9d5027582520ac1fa63b6f796
+Author: Christine YANG-DAI <cyangd@teaching.CS.McGill.CA>
+Date:   Mon Apr 26 02:04:09 2021 -0400
+
+    Initial version of Exercise 2. Passed my own tester(small).

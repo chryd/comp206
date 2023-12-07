@@ -1,0 +1,17 @@
+LEGEND:
+#comments in this format
+$unix commands in this format
+(gdb) gdb commands in this format
+========================
+#Assume that the files are compiled with: $gcc -g
+$gdb labapp
+(gdb) break generateAttendance #create a break point at generateAttendance
+(gdb) run
+(gdb) list generateAttendance:15 
+	#double check that there is no typo and find the line where we access the node
+(gdb) step #to the line fprintf(header), check if it execute
+	#since the problem is not here, we can continue step by step
+(gdb) step #reaching the while ptr which access the head of the list
+(gdb) print ptr #print the address of the head
+(gdb) quit
+
